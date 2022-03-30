@@ -7,3 +7,4 @@
 Creado por:
 
 - Juan Fernando De Leon Quezada
+- Cristopher Jose Rodolfo Barrios Solis
